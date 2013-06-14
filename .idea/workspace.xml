@@ -11,7 +11,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a232b22-c5fc-468c-aabe-3ad24396e38a" name="Default" comment="" />
+    <list default="true" id="0a232b22-c5fc-468c-aabe-3ad24396e38a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SetCounter/src/main/java/com/home/setcounter/MainActivity.java" afterPath="$PROJECT_DIR$/SetCounter/src/main/java/com/home/setcounter/MainActivity.java" />
+    </list>
     <ignored path="SetCounter.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,7 +79,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SetCounter/src/main/java/com/home/setcounter/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.7619784" vertical-offset="0" max-vertical-offset="647">
+            <state line="40" column="1" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.7619784" vertical-offset="0" max-vertical-offset="647">
               <folding />
             </state>
           </provider>
@@ -158,8 +160,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/SetCounter/src/main/java/com/home/setcounter/MainActivity.java" />
         <option value="$PROJECT_DIR$/SetCounter/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/SetCounter/src/main/java/com/home/setcounter/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -576,7 +578,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="0" width="1900" height="1160" extended-state="0" />
+    <frame x="10" y="0" width="1900" height="1160" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -716,7 +718,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SetCounter/src/main/java/com/home/setcounter/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.7619784" vertical-offset="0" max-vertical-offset="647">
+        <state line="40" column="1" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.7619784" vertical-offset="0" max-vertical-offset="647">
           <folding />
         </state>
       </provider>
